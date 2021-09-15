@@ -26,7 +26,7 @@ while True:
 
         else:
             print("Paper covers rock! You lose.")
-            # Previous wsa rock v rock, rock v scissors, and now rock v paper, you lose
+            # Previous was rock v rock, rock v scissors, and now rock v paper, you lose
 
     elif user_action == "paper":
         if computer_action == "rock":
